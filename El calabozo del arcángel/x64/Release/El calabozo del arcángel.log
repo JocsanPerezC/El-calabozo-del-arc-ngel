@@ -1,0 +1,8 @@
+﻿  El calabozo del arcángel.cpp
+C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\El calabozo del arcángel\El calabozo del arcángel\El calabozo del arcángel.cpp(778,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código
+  0 of 340 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  El calabozo del arcángel.vcxproj -> C:\Users\Admin\OneDrive - Estudiantes ITCR\Escritorio\El calabozo del arcángel\x64\Release\El calabozo del arcángel.exe

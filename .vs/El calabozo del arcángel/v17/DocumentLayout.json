@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive - Estudiantes ITCR\\Escritorio\\El calabozo del arc\u00E1ngel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60F4D979-1FE9-43E7-A09A-9CFFC1551445}|El calabozo del arc\u00E1ngel\\El calabozo del arc\u00E1ngel.vcxproj|C:\\Users\\Admin\\OneDrive - Estudiantes ITCR\\Escritorio\\El calabozo del arc\u00E1ngel\\El calabozo del arc\u00E1ngel\\El calabozo del arc\u00E1ngel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60F4D979-1FE9-43E7-A09A-9CFFC1551445}|El calabozo del arc\u00E1ngel\\El calabozo del arc\u00E1ngel.vcxproj|solutionrelative:El calabozo del arc\u00E1ngel\\El calabozo del arc\u00E1ngel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "El calabozo del arc\u00E1ngel.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - Estudiantes ITCR\\Escritorio\\El calabozo del arc\u00E1ngel\\El calabozo del arc\u00E1ngel\\El calabozo del arc\u00E1ngel.cpp",
+              "RelativeDocumentMoniker": "El calabozo del arc\u00E1ngel\\El calabozo del arc\u00E1ngel.cpp",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - Estudiantes ITCR\\Escritorio\\El calabozo del arc\u00E1ngel\\El calabozo del arc\u00E1ngel\\El calabozo del arc\u00E1ngel.cpp",
+              "RelativeToolTip": "El calabozo del arc\u00E1ngel\\El calabozo del arc\u00E1ngel.cpp",
+              "ViewState": "AQIAANEBAAAAAAAAAAAAAKwBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T18:44:27.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
